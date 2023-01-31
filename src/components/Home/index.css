@@ -1,0 +1,18 @@
+.home-page-container {
+  background-color: #152850;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+.home-heading {
+  font-family: 'Roboto';
+  font-size: 38px;
+  color: #ffffff;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 20px;
+}
+.digital-card {
+  width: 600px;
+  align-self: center;
+}
